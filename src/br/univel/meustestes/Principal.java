@@ -120,15 +120,7 @@ public class Principal {
 		
 	}
 	
-	/**
-	 * Percorre toda a arvore, recursivamente, encontra
-	 * todas as contas analíticas (isLeaf() == true), soma
-	 * seus valores e atribui o total na conta pai.
-	 * 
-	 * Depois pega todos os pais e somam no avô.
-	 * 
-	 * @param planoContas
-	 */
+	
 	private void somarFilhos(UniArvore<UniNode<Conta>> planoContas) {
 
 		BigDecimal total = BigDecimal.ZERO;
