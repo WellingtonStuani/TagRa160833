@@ -110,7 +110,7 @@ public class Principal {
 		
 		
 		System.out.println("=============== Plano de Contas  ============================");
-		
+		System.out.println("\n");
 		
 		planoContas.mostrarTodosConsole();
 		
