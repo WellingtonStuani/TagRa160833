@@ -109,7 +109,7 @@ public class Principal {
 		somarFilhos(planoContas);
 		
 		
-		System.out.println("===========================================");
+		System.out.println("=============== Plano de Contas  ============================");
 		
 		
 		planoContas.mostrarTodosConsole();
