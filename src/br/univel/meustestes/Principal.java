@@ -111,10 +111,7 @@ public class Principal {
 		
 		System.out.println("===========================================");
 		
-		/**
-		 * Mostra todo o plano de contas, inclusive com
-		 * tabulações (\t) a cada nível.
-		 */
+		
 		planoContas.mostrarTodosConsole();
 		
 		
