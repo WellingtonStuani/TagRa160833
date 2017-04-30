@@ -115,12 +115,7 @@ public class Principal {
 		planoContas.mostrarTodosConsole();
 		
 		
-		// O exercício consiste em identificar a necessidade de
-		// novos métodos para finalizar a tarefa, sempre lembrando
-		// de coesão, acoplamento e encapsulamento.
-		// Entrega link do repositório para fernandod@univel.br com assunto:
-		// TrabalhoComplementar 3o Sem
-
+	
 		
 		
 	}
